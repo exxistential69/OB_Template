@@ -5,19 +5,16 @@ tags:
 - CourseNote/
 ---
 
-# ❗❓ Information
-Related to Course::
+# ❗Course Info
+Course::
 Date::
-Professor/Speaker::
-Tags::
+Professor::
+
 
 ---
 # ❗ Topic
-
- 
-## 📦 Resources
 - 
-## 🔑 Key Points
+## 🔑 Notes
 - 
 ## ❓ Questions
 - 
